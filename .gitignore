@@ -42,3 +42,6 @@ cmake-build-debug/
 */test.h
 test.cpp
 test
+
+*.ilk
+*.pdb
