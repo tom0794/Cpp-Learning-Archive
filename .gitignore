@@ -35,7 +35,6 @@
 *.pro
 /Debug/
 .idea/
-.vscode/
 cmake-build-debug/
 */test.cpp
 */test
