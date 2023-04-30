@@ -1,0 +1,176 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "5_template_examples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01-value-template-arguments::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01-value-template-arguments-Debug-e4ce4613277a35fa3aed.json",
+					"name" : "01-value-template-arguments",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02-function-templates::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02-function-templates-Debug-66d257075a119fe0b8d3.json",
+					"name" : "02-function-templates",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03-generic-accumulate-example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03-generic-accumulate-example-Debug-2d8128c4ee47fd671cce.json",
+					"name" : "03-generic-accumulate-example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-functors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-functors-Debug-16c078202c45de8be6e5.json",
+					"name" : "04-functors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05-functors-with-STL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05-functors-with-STL-Debug-4dff640ee6898a59c226.json",
+					"name" : "05-functors-with-STL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06-lambda-functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06-lambda-functions-Debug-d1ceafaeac17f6d5cbc8.json",
+					"name" : "06-lambda-functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07-lambda-functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07-lambda-functions-Debug-0df7696c21913434ec1f.json",
+					"name" : "07-lambda-functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08-lambda-functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08-lambda-functions-Debug-5758e92980e1d32fa6e3.json",
+					"name" : "08-lambda-functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09-lambda-functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09-lambda-functions-Debug-f151db5eb0154731f2bb.json",
+					"name" : "09-lambda-functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10-lambda-functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10-lambda-functions-Debug-03dfad8638b267f8eea7.json",
+					"name" : "10-lambda-functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11-lambda-functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11-lambda-functions-Debug-099f4b28a76dcb8162e3.json",
+					"name" : "11-lambda-functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12-lambda-functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12-lambda-functions-Debug-35658f1012cbac02139a.json",
+					"name" : "12-lambda-functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13-type-alias-template-alias::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13-type-alias-template-alias-Debug-b0e562322c570085df4b.json",
+					"name" : "13-type-alias-template-alias",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "14-variadic-templates::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-14-variadic-templates-Debug-6da4bb7345bfa0ad1240.json",
+					"name" : "14-variadic-templates",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/06-templates/5-template-examples/out/build/x64-Debug",
+		"source" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/06-templates/5-template-examples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

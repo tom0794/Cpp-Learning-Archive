@@ -1,0 +1,5 @@
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/01-basics/out/build/x64-Debug/CMakeFiles/1_hello_world.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/01-basics/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/01-basics/out/build/x64-Debug/CMakeFiles/3_references.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/01-basics/out/build/x64-Debug/CMakeFiles/2_for.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/01-basics/out/build/x64-Debug/CMakeFiles/edit_cache.dir

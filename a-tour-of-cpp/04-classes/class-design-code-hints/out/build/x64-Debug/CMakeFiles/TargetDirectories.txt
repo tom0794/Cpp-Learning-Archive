@@ -1,0 +1,10 @@
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/6-const-overloading-operators-problem3.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/7-const-overloading-operators-problem4.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/1-const-member-functions.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/3-solution-to-return-handles-to-object-internals.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/2-problem-when-returning-handles-to-object-internals.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/5-const-overloading-operators-problem2.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/4-const-overloading-operators-problem1.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/8-const-overloading-operators-solution1.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tour_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1_hello_world::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1_hello_world-Debug-28f588ecd0019fac76b0.json",
+					"name" : "1_hello_world",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2_for::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2_for-Debug-4f01b66df5e69d74df9b.json",
+					"name" : "2_for",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3_references::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3_references-Debug-56342f1b3d8014a1db7d.json",
+					"name" : "3_references",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/01-basics/out/build/x64-Debug",
+		"source" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/01-basics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

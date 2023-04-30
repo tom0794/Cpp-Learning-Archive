@@ -1,0 +1,8 @@
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms/out/build/x64-Debug/CMakeFiles/01-sort.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms/out/build/x64-Debug/CMakeFiles/02-sort.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms/out/build/x64-Debug/CMakeFiles/08-container-algorithms.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms/out/build/x64-Debug/CMakeFiles/05-iterators.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms/out/build/x64-Debug/CMakeFiles/03-find.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms/out/build/x64-Debug/CMakeFiles/04-iterators.dir
+C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

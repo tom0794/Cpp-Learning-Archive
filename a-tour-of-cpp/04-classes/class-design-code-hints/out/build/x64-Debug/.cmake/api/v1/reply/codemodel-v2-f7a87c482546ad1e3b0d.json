@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "class_design_code_hints",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1-const-member-functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-const-member-functions-Debug-8b6a5be9257321d8b3cd.json",
+					"name" : "1-const-member-functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-problem-when-returning-handles-to-object-internals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-problem-when-returning-handles-to-object-internals-Debug-731fdb2a36da4eebf163.json",
+					"name" : "2-problem-when-returning-handles-to-object-internals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-solution-to-return-handles-to-object-internals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-solution-to-return-handles-to-object-internals-Debug-4f12ad23c4ca83c396e3.json",
+					"name" : "3-solution-to-return-handles-to-object-internals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-const-overloading-operators-problem1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-const-overloading-operators-problem1-Debug-181d571517f9270a89c0.json",
+					"name" : "4-const-overloading-operators-problem1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5-const-overloading-operators-problem2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-const-overloading-operators-problem2-Debug-140d71debf324b9087c9.json",
+					"name" : "5-const-overloading-operators-problem2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6-const-overloading-operators-problem3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6-const-overloading-operators-problem3-Debug-1de06fcb204c1834a24c.json",
+					"name" : "6-const-overloading-operators-problem3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-const-overloading-operators-problem4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-const-overloading-operators-problem4-Debug-0cd54a08467c48e54bc8.json",
+					"name" : "7-const-overloading-operators-problem4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8-const-overloading-operators-solution1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-const-overloading-operators-solution1-Debug-f13bcf0bf4c09160c517.json",
+					"name" : "8-const-overloading-operators-solution1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints/out/build/x64-Debug",
+		"source" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/04-classes/class-design-code-hints"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

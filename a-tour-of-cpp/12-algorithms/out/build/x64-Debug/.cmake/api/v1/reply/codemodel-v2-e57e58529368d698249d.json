@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12_algorithms",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01-sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01-sort-Debug-5c9cdc4c17d5850bfc5f.json",
+					"name" : "01-sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02-sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02-sort-Debug-4a5e662c65ad0b6a5bd9.json",
+					"name" : "02-sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03-find::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03-find-Debug-d0b993b1b9b0615efa44.json",
+					"name" : "03-find",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-iterators::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-iterators-Debug-f1977e01c994a0ad4096.json",
+					"name" : "04-iterators",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05-iterators::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05-iterators-Debug-3fc9d4b8ddafc07f23c8.json",
+					"name" : "05-iterators",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08-container-algorithms::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08-container-algorithms-Debug-8585f6b30087b52810b5.json",
+					"name" : "08-container-algorithms",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms/out/build/x64-Debug",
+		"source" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/12-algorithms"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "5_essential_operations",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1-implicit-copy-assigment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-implicit-copy-assigment-Debug-36c91ee9d3baa69febe0.json",
+					"name" : "1-implicit-copy-assigment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-explicit-conversions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-explicit-conversions-Debug-5ee31e80e216a9bca12e.json",
+					"name" : "2-explicit-conversions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-copy-constructor-copy-assignment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-copy-constructor-copy-assignment-Debug-2741d33d111a41acc313.json",
+					"name" : "3-copy-constructor-copy-assignment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-overcopying-containers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-overcopying-containers-Debug-de311362935a6f32c35f.json",
+					"name" : "4-overcopying-containers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5-move-constructor-move-assignment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-move-constructor-move-assignment-Debug-c3dfea126955f37b6bcf.json",
+					"name" : "5-move-constructor-move-assignment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6-defaulted-and-deleted-methods::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6-defaulted-and-deleted-methods-Debug-4d66267369d8c7c4bd56.json",
+					"name" : "6-defaulted-and-deleted-methods",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-defaulted-and-deleted-methods::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-defaulted-and-deleted-methods-Debug-6fa2f3cca53896e9471c.json",
+					"name" : "7-defaulted-and-deleted-methods",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8-defaulted-and-deleted-methods::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-defaulted-and-deleted-methods-Debug-192fd456154f6c644e5a.json",
+					"name" : "8-defaulted-and-deleted-methods",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/05-essential-operations/out/build/x64-Debug",
+		"source" : "C:/workspace/cpp/Cpp-Learning-Archive/a-tour-of-cpp/05-essential-operations"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
