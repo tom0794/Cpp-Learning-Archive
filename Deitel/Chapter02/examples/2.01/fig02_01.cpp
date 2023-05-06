@@ -18,7 +18,7 @@
 #include <iostream>  // allows program to output data to the screen
 
 // function main begins program execution
-int main(int argc, const char *argv[]) {//for command line argumant it will cover latter
+int main() {//for command line argumant it will cover latter
     std::cout << "Welcome to C++!" << std::endl;  // display message
 
     return 0;  // indicate that program ended successfully

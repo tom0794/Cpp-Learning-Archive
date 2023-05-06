@@ -17,13 +17,13 @@
  */
 #include <iostream>
 
-int main(int argc, const char *argv[]) {
+int main() {
     // variable declarations
-    int number1;  // first integer to add
-    int number2;  // second integer to add
-    int sum;      // sum of number1 and number2
+    int number1{0};  // first integer to add
+    int number2{0};  // second integer to add
+    int sum{0};      // sum of number1 and number2
 
-    std::cout << "Enter first integer: ";  // prompt user for data //std measns using from namespace std
+    std::cout << "Enter first integer: ";  // prompt user for data
     //for name space std http://www.cplusplus.com/forum/beginner/61121/
     std::cin >> number1;  // read the first integer from user into number1
 

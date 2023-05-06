@@ -17,30 +17,40 @@
  */
 #include <iostream>
 
+using std::cout;
+using std::cin;
+using std::endl;
+
 int main(int argc, const char *argv[]) {
     int number1;
     int number2;
 
-    std::cout << "Enter two integers to compare: ";  // prompt user for data
-    std::cin >> number1 >> number2;  // read two integers from user
+    cout << "Enter two integers to compare: ";  // prompt user for data
+    cin >> number1 >> number2;  // read two integers from user
 
-    if (number1 == number2)
-        std::cout << number1 << " == " << number2 << std::endl;
+    if (number1 == number2) {
+        cout << number1 << " == " << number2 << endl;
+    }
 
-    if (number1 != number2)
-        std::cout << number1 << " != " << number2 << std::endl;
+    if (number1 != number2) {
+        cout << number1 << " != " << number2 << endl;
+    }
 
-    if (number1 < number2)
-        std::cout << number1 << " < " << number2 << std::endl;
+    if (number1 < number2) {
+        cout << number1 << " < " << number2 << endl;
+    }
 
-    if (number1 > number2)
-        std::cout << number1 << " > " << number2 << std::endl;
+    if (number1 > number2) {
+        cout << number1 << " > " << number2 << endl;
+    }
 
-    if (number1 <= number2)
-        std::cout << number1 << " <= " << number2 << std::endl;
+    if (number1 <= number2) {
+        cout << number1 << " <= " << number2 << endl;
+    }
 
-    if (number1 >= number2)
-        std::cout << number1 << " >= " << number2 << std::endl;
+    if (number1 >= number2) {
+        cout << number1 << " >= " << number2 << endl;
+    }
 
     return 0;
 }
